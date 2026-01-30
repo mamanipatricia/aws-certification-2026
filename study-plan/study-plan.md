@@ -209,9 +209,8 @@ Concise, actionable roadmap optimized for your independent work style & minimal-
 ⏱️ Weekly Commitment: 10 hrs (Mon/Wed/Fri 2 hrs + Sat 4 hrs)
 🛑 Buffer Weeks: Mar 15-21, May 17-23, Jul 5-11 (catch up or deepen weak areas)
 
- ### WEEKLY EXECUTION PLAN (Print This Table)
+ ### WEEKLY EXECUTION PLAN
 
-please  generate a table for weekly execution plan only
 | Week | Dates        | Core Focus               | Hands-On Project                                      | Patricia's Minimal-Change Tip                          |
 |------|--------------|--------------------------|-------------------------------------------------------|--------------------------------------------------------|
 | 1    | Feb 1-7      | IAM Mastery              | 3-account sandbox with SCPs blocking root               | Use roles instead of access keys → fewer credential rotations |
@@ -243,7 +242,6 @@ please  generate a table for weekly execution plan only
 
 Databases (Week 8 Focus)
 
-please convert into a table format the below cheat sheet only
 | Pattern              | Service        | Minimal-Change Implementation                                 |
 |----------------------|----------------|---------------------------------------------------------------|
 | Single-table design  | DynamoDB       | PK: USER#123, SK: ORDER#2026-02-01 → 1 table replaces 5          |
@@ -255,7 +253,6 @@ please convert into a table format the below cheat sheet only
 
 ### VPC/Networking (Week 12 Focus)
 
-convert into table format the above cheat sheet only
 | Pattern             | Service              | Minimal-Change Implementation                                 |
 |---------------------|----------------------|---------------------------------------------------------------|
 | Cost-saving egress  | VPC Endpoints        | Replace NAT Gateway → $0.045/GB → $0.01/GB (no app changes)      |
@@ -265,7 +262,6 @@ convert into table format the above cheat sheet only
 
 ### Serverless (Week 7 Focus)
 
-please convert into table format the above cheat sheet only
 | Challenge          | Minimal-Change Fix                                      |
 |--------------------|---------------------------------------------------------|
 | Cold starts        | Provisioned concurrency = 5 → p99 latency <500ms          |
@@ -278,7 +274,6 @@ please convert into table format the above cheat sheet only
 ![sqs diagram](image.png)
 
 - Critical Config: visibility_timeout_seconds > max_processing_time
-- Patricia's Philosophy: DLQ redrive policy → fix consumer code, never change producer logic
 
 ### EXAM READINESS TRIGGER (Do NOT Book Before This)
 
