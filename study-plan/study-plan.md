@@ -5,32 +5,42 @@
 
 ## flash cards for key concepts and terms based on the study plan
 **Flashcard 1:**
+
 - **Front:** What is the purpose of creating a structured study plan?
 - **Back:** To organize study time effectively, cover all exam objectives, and ensure consistent progress.
+
 **Flashcard 2:**
 - **Front:** Name one effective technique for retaining information.
 - **Back:** Active Learning – engaging with the material through discussions and practical application.
+
 **Flashcard 3:**
 - **Front:** What is the Pomodoro Technique?
 - **Back:** A time management method that involves studying for 25 minutes followed by a 5-minute break to enhance focus and prevent burnout.
+
 **Flashcard 4:**
 - **Front:** Why are mock exams important in exam preparation?
 - **Back:** They simulate real exam conditions, help improve time management skills, and identify areas that need further study.
+
 **Flashcard 5:**
 - **Front:** What should be done during the final week before the exam?
 - **Back:** Review summary notes and flashcards, and ensure adequate rest and relaxation before the exam day.
+
 **Flashcard 6:**
 - **Front:** Name one recommended study material for exam preparation.
 - **Back:** "Official Certification Guide" by [Publisher Name].
+
 **Flashcard 7:**
 - **Front:** How can setting goals and rewards help in staying motivated?
 - **Back:** It provides a sense of achievement and encourages continued effort by celebrating small successes.
+
 **Flashcard 8:**
 - **Front:** What topics should be focused on during weeks 5-6 of the study schedule?
 - **Back:** Deep dive into advanced topics and explore complex subjects and case studies.
+
 **Flashcard 9:**
 - **Front:** What is the benefit of using flashcards in studying?
 - **Back:** They allow for quick review of key concepts and terms, aiding in memory retention
+
 **Flashcard 10:**
 - **Front:** What activities are recommended during weeks 3-4 of the study schedule?
 - **Back:** Study fundamental topics, create summary notes, and use flashcards for key terms and definitions.
