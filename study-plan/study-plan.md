@@ -3,35 +3,7 @@
 - **Mock Exams:** Take multiple mock exams to simulate real exam conditions and improve time management skills.
 - **Use Flashcards:** Create or use existing flashcards for quick review of key concepts and terms.
 
-# please do all the tasks below based on the above study plan
-1. Create a detailed study schedule that breaks down the topics to be covered each week leading up to the exam date.
-2. Recommend at least three reputable sources or materials for studying the exam topics.
-3. Suggest effective techniques for retaining information and staying motivated throughout the study period.1. **Detailed Study Schedule:**
-- **Week 1-2:** Review Exam Objectives and Gather Study Materials
-  - Familiarize yourself with the exam objectives.
-  - Collect textbooks, online courses, and practice exams.
-- **Week 3-4:** Focus on Core Concepts
-  - Study fundamental topics and create summary notes.
-  - Use flashcards for key terms and definitions.
-- **Week 5-6:** Deep Dive into Advanced Topics
-  - Explore complex subjects and case studies.
-  - Participate in study groups or forums for discussion.
-- **Week 7-8:** Practice with Mock Exams
-  - Take full-length practice exams under timed conditions.
-  - Review incorrect answers and understand mistakes.
-- **Week 9:** Final Review and Relaxation
-  - Go over summary notes and flashcards.
-  - Ensure adequate rest and relaxation before the exam day.
-2. **Recommended Study Materials:**
-- "Official Certification Guide" by [Publisher Name] – A comprehensive guide covering all exam topics.
-- Online Course on [Platform Name] – Interactive lessons and quizzes to reinforce learning.
-- Practice Exams from [Website Name] – A collection of practice tests to simulate the exam experience.
-3. **Effective Techniques for Retaining Information and Staying Motivated:**
-- **Active Learning:** Engage with the material through discussions, teaching others, and applying concepts in practical scenarios.
-- **Regular Breaks:** Use the Pomodoro Technique (25 minutes of focused study followed by a 5-minute break) to maintain concentration and prevent burnout.
-- **Set Goals and Rewards:** Establish small, achievable goals for each study session and reward yourself upon completion to stay motivated.
-
-# create flash cards for key concepts and terms based on the study plan
+## flash cards for key concepts and terms based on the study plan
 **Flashcard 1:**
 - **Front:** What is the purpose of creating a structured study plan?
 - **Back:** To organize study time effectively, cover all exam objectives, and ensure consistent progress.
@@ -63,7 +35,8 @@
 - **Front:** What activities are recommended during weeks 3-4 of the study schedule?
 - **Back:** Study fundamental topics, create summary notes, and use flashcards for key terms and definitions.
 
-please do the flashcards, lets start with IAM (Identity and Access Management) concepts.
+## IAM FLASHCARDS
+lets start with IAM (Identity and Access Management) concepts.
 **Flashcard 1:**
 - **Front:** What is Identity and Access Management (IAM)?
 - **Back:** IAM is a framework of policies and technologies that ensures the right individuals have access to the right resources at the right times for the right reasons.
