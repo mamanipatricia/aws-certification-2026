@@ -33,6 +33,10 @@ https://wsr.pearsonvue.com/testtaker/registration/SelectExamOptionsPage/AWS?conv
 https://cp.certmetrics.com/amazon/en/schedule/schedule-exam
 ![schedule an exam](image-1.png)
 
+### pearsonvue faqs
+https://www.pearsonvue.com/us/en/test-takers/resources.html#faqs
+
+
 ## exam details
 - **Exam Code:** SAA-C03
 - **Format:** Multiple choice and multiple response questions
